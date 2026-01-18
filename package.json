@@ -54,3 +54,10 @@
     "@types/react-dom": "^18.3.5"
   }
 }
+{
+  "homepage": "https://mohit52jaya.github.io/github-ic9pspvy-gdegespn",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
+}
