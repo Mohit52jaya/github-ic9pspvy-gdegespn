@@ -4,7 +4,7 @@ import path from "path";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/aso-publication/",   // keep ONLY if repo name = aso-publication
+  base: "/github-ic9pspvy-gdegespn/", // MUST match repo name
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "src"),
